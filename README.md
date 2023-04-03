@@ -32,11 +32,11 @@ Nombre: WhatsApp Icono & Boton Checkout
 Versión: 2.0
 Autor: @ElProfeDotti :bust_in_silhouette:
 
-URI del autor: https://github.com/elprofedotti/WhatsApp-Icono-Boton-Checkout :computer:
+:computer: URI del autor: https://github.com/elprofedotti/WhatsApp-Icono-Boton-Checkout 
 
 Licencia: GPL v2 o posterior
-URI de la licencia: https://www.gnu.org/licenses/gpl-2.0.html :scroll:
+:scroll: URI de la licencia: https://www.gnu.org/licenses/gpl-2.0.html 
 
 ### Demo :eyes:
 
-Puedes ver una demostración del plugin en https://institucional.masciocchiyasociados.com.ar/. :tv:
+:tv: Puedes ver una demostración del plugin en https://institucional.masciocchiyasociados.com.ar/. 
