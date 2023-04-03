@@ -6,6 +6,8 @@ Añade un botón "Finalizar compra por WhatsApp" en la página del carrito de Wo
 
 El ícono de WhatsApp también puede mostrar un mensaje personalizado encima del ícono. Las posiciones del ícono y el mensaje personalizado en la pantalla son personalizables, y también es posible configurar un retraso para su aparición. :gear:
 
+Los ajustes del plugin, aparecen en el menu Ajustes, como Plugin de Whatsapp.❗
+
 Características :sparkles:
 
 Botón "Finalizar compra por WhatsApp" :heavy_check_mark:
