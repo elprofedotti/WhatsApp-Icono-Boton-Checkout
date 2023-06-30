@@ -39,4 +39,4 @@ Licencia: GPL v2 o posterior
 
 ### Demo :eyes:
 
-:tv: Puedes ver una demostración del plugin en https://institucional.masciocchiyasociados.com.ar/. 
+:tv: Puedes ver el plugin en funcionamiento en https://elprofedotti/base
